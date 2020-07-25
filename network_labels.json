@@ -13,7 +13,7 @@
     {"id": "Louis Henri, Duke of Bourbon", "group": 3},
     {"id": "Caspar Franz Edmund von Bourscheidt", "group": 4},
     {"id": "Charles VI, Holy Roman Emperor", "group": 5},
-  ],
+ ],
   "links": [
     {"source": "Anna Maria Luisa de’ Medici", "target": "Maria Dorothea Wilhelmina von Metternich Angelelli", "value": 1},
     {"source": "Anna Maria Luisa de’ Medici", "target": "Pietro Neri Lorenzo, Marquis Angelelli", "value": 1},
@@ -23,7 +23,7 @@
     {"source": "Anna Maria Luisa de’ Medici", "target": "Louis XV, King of France", "value": 2},
     {"source": "Anna Maria Luisa de’ Medici", "target": "Charles III Philip, Elector Palatine", "value": 2},
     {"source": "Maria Dorothea Wilhelmina von Metternich Angelelli", "target": "Pietro Neri Lorenzo, Marquis Angelelli", "value": 2},
-    {"source": Maria Dorothea Wilhelmina von Metternich Angelelli", "target": "Maria Vittoria of Savoy", "value": 2},
+    {"source": "Maria Dorothea Wilhelmina von Metternich Angelelli", "target": "Maria Vittoria of Savoy", "value": 2},
     {"source": "Maria Vittoria of Savoy", "target": "Victor Amadeus of Savoy, Prince of Carigon", "value": 3},
     {"source": "Maria Vittoria of Savoy", "target": "Cardinal Fluery", "value": 3},
     {"source": "Maria Vittoria of Savoy", "target": "Louis Henri, Duke of Bourbon", "value": 3},
