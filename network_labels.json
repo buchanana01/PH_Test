@@ -13,7 +13,7 @@
     {"id": "Louis Henri, Duke of Bourbon", "group": 3},
     {"id": "Caspar Franz Edmund von Bourscheidt", "group": 4},
     {"id": "Charles VI, Holy Roman Emperor", "group": 5},
- ],
+],
   "links": [
     {"source": "Anna Maria Luisa de’ Medici", "target": "Maria Dorothea Wilhelmina von Metternich Angelelli", "value": 1},
     {"source": "Anna Maria Luisa de’ Medici", "target": "Pietro Neri Lorenzo, Marquis Angelelli", "value": 1},
