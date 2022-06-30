@@ -11,7 +11,8 @@ Rome is the capital city of Italy. It is also the capital of the Lazio region, t
 <param ve-map
        center="Q220"
        zoom="10"
-       Title="City of Rome">
+       Title="City of Rome"
+       show-labels>
 
 
 
