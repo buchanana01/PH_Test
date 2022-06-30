@@ -18,14 +18,19 @@ Rome is the capital city of Italy. It is also the capital of the Lazio region, t
 ### Domestication of Maize
 Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi), Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy.
 <param ve-map
-       center="Q1489"
-       zoom="3"
-       title="Maize"
-       show-labels>
-<param ve-map-layer
-       url="/spread_of_maize.json"
-       show-labels
-       stroke-width="0">
+    title="Approximate timing and location of maize domestication."
+    center="12.684407961343284, -76.70109703556372"
+    zoom="3"
+    time-dimension
+    time-interval="-8700/900"
+    duration="P10000Y"
+    max-zoom="5"
+    date-format="YYYY"
+    fps="3"
+    fill="#5C6609"
+    auto-play="true">
+<param ve-map-layer geojson url="/spread_of_maize.json">
+
 
 
 
