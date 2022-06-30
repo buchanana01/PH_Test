@@ -23,7 +23,7 @@ Rome is the capital city of Italy. It is also the capital of the Lazio region, t
        title="Maize"
        show-labels>
 <param ve-map-layer
-       url="https://raw.githubusercontent.com/buchanana01/PH_Test/master/Demo_2/spread_of_maize.json"
+       url="/spread_of_maize.json"
        show-labels
        stroke-width="0">
 
