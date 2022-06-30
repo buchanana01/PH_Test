@@ -13,3 +13,4 @@ Rome, the capital of Italy, is a large cosmopolitan city with an influential art
        zoom="5"
        Title="City of Rome"
        show-labels>
+<param ve-map basemap="Esri_WorldPhysical">
