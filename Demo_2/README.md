@@ -22,6 +22,11 @@ Rome, the capital of Italy, is a large cosmopolitan city with an influential art
        zoom="5"
        Title="City of Rome"
        show-labels>
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Colosseum_icon.svg"
+       coords="41.89293, 12.49058"
+       size="512, 328" 
+       circle="true">
 
 
 
