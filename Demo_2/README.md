@@ -29,7 +29,7 @@ Rome, the capital of Italy, is a large cosmopolitan city with an influential art
        circle="true">
 
 ### Domestication of Maize
-dkdh iandfn uehfkasdn ihye kdhvau emaize, maize, maize.
+Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi), Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy.
 <param ve-map
        center="Q1489"
        zoom="4"
