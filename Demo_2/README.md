@@ -9,12 +9,12 @@
 ### Rome
 Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi), Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy.
 <param ve-entity EID="Q220">
-<param ve-map basemap="Esri_WorldPhysical">
 <param ve-map
        center="Q220"
        zoom="10"
        Title="City of Rome"
-       prefer-geojson>
+       prefer-geojson
+       basemap="Esri_WorldPhysical">
 
 
 
