@@ -20,7 +20,8 @@ Rome is the capital city of Italy. It is also the capital of the Lazio region, t
 <param ve-map
     title="Approximate timing and location of maize domestication."
     center="12.684407961343284, -76.70109703556372"
-    zoom="3">
+    zoom="3"
+    show-labels>
 <param ve-map-layer geojson url="/Demo_2/spread_of_maize.json">
 
 
