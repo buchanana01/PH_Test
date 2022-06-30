@@ -13,8 +13,15 @@ Rome is the capital city of Italy. It is also the capital of the Lazio region, t
        center="Q220"
        zoom="10"
        Title="City of Rome"
-       prefer-geojson
-       basemap="Esri_WorldPhysical">
+       prefer-geojson>
+
+### Rome
+Rome, the capital of Italy, is a large cosmopolitan city with an influential artistic, architectural, and cultural history that dates back almost 3000 years. Ancient ruins such as the Roman Forum and the <span data-mouseover-map-flyto="41.89019, 12.49140, 15">Colosseum</span> testify to the power of the ancient Roman Empire. Vatican City, seat of the Catholic Church, is home to the Basilica of Saint Peter’s and the Vatican Museums, which house world-renowned artistic masterpieces such as the Sistine Chapel frescoed by Michelangelo.
+<param ve-map
+       center="41.89293, 12.49058"
+       zoom="5"
+       Title="City of Rome"
+       show-labels>
 
 
 
