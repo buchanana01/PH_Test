@@ -6,31 +6,23 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
-### Rome
-Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi), Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy.
-<param ve-entity EID="Q220">
-<param ve-map
-       center="Q220"
-       zoom="10"
-       Title="City of Rome"
-       prefer-geojson>
-
 ### Domestication of Maize
-Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi), Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy.
+Maize domestication is one of the greatest feats of artificial selection and evolution, wherein a weedy plant in Central Mexico was converted through human-mediated selection into the most productive crop in the world.
 <param ve-map
-    title="Approximate timing and location of maize domestication."
-    center="12.684407961343284, -76.70109703556372"
-    zoom="3"
-    show-labels
-    time-dimension
-    time-interval="-8700/900"
-    duration="P10000Y"
-    max-zoom="5"
-    date-format="YYYY"
-    fps="3"
-    fill="#5C6609"
-    auto-play="true">
-<param ve-map-layer geojson url="/Demo_2/spread_of_maize.json">
+       title="Approximate timing and location of maize domestication."
+       center="12.684407961343284, -76.70109703556372"
+       zoom="3"
+       show-labels
+       time-dimension
+       time-interval="-8700/900"
+       duration="P10000Y"
+       max-zoom="5"
+       date-format="YYYY"
+       fps="3"
+       fill="#5C6609"
+       auto-play="true">
+<param ve-map-layer geojson 
+       url="/Demo_2/spread_of_maize.json">
 
 
 
