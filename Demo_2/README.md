@@ -21,7 +21,14 @@ Rome is the capital city of Italy. It is also the capital of the Lazio region, t
        center="Q1489"
        zoom="3"
        title="Maize"
-       show-labels>
+       show-labels
+       prefer-geojson>
+<param ve-map-layer
+       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Peony/Song.json"
+       show-labels
+       stroke-width="0">
+
+
 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
