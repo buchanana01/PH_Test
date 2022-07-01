@@ -30,7 +30,7 @@ Wikimedia commons is a media file repository making available public domain and 
        label="Sloane MS 1975" 
        description="Medical and herbal miscellany" 
        license="British Library" 
-       url="blob:null/59058575-a24a-4fff-938f-8aa61b01cf7f"
+       url="blob:null/59058575-a24a-4fff-938f-8aa61b01cf7f">
 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
