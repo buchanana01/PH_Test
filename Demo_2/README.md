@@ -24,7 +24,13 @@ Maize domestication is one of the greatest feats of artificial selection and evo
 <param ve-map-layer geojson 
        url="/Demo_2/spread_of_maize.json">
 
-
+### Adding an Image
+Wikimedia commons is a media file repository making available public domain and freely-licensed educational media content (images, sound and video clips) to everyone, in their own language. It acts as a common repository for the various projects of the Wikimedia Foundation, but you do not need to belong to one of those projects to use media hosted here. The repository is created and maintained not by paid archivists, but by volunteers. As of December 2020, Wikimedia Commons contains over 66 million freely usable media files.
+<param ve-image
+       label="Sloane MS 1975" 
+       description="Medical and herbal miscellany" 
+       license="British Library" 
+       url="blob:null/59058575-a24a-4fff-938f-8aa61b01cf7f"
 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
