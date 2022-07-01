@@ -26,12 +26,7 @@ Maize domestication is one of the greatest feats of artificial selection and evo
 
 ### Adding an Image
 Wikimedia commons is a media file repository making available public domain and freely-licensed educational media content (images, sound and video clips) to everyone, in their own language. It acts as a common repository for the various projects of the Wikimedia Foundation, but you do not need to belong to one of those projects to use media hosted here. The repository is created and maintained not by paid archivists, but by volunteers. As of December 2020, Wikimedia Commons contains over 66 million freely usable media files.
-<param ve-image
-       label="Sloane MS 1975" 
-       description="Medical and herbal miscellany" 
-       attribution="British Library"
-       license="Public Domain" 
-       manifest="http://www.bl.uk/manuscripts/Viewer.aspx?ref=sloane_ms_1975_f049r">
+<param ve-iframe src="http://www.bl.uk/manuscripts/Viewer.aspx?ref=sloane_ms_1975_f049r">
 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
