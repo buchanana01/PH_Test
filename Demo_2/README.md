@@ -30,8 +30,8 @@ _Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist G
        label="Apollo and Daphne" 
        description="sculpture by Gian Lorenzo Bernini"
        license="Creative Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_statue.jpg"
-       fit="contain">
+       url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_statue.jpg">
+      
        
 ### Sample visual essay
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
