@@ -28,8 +28,8 @@ Maize domestication is one of the greatest feats of artificial selection and evo
 _Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist Gian Lorenzo Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome, the work depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid's _Metamorphoses_.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg"
-       fit="cover"
-       region="2612,3942,7168,5848">
+       fit="contain"
+       region="-1546,588,7734,6445">
 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
