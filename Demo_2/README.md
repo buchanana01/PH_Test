@@ -30,7 +30,8 @@ _Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist G
        url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Apollo_and_Daphne_%28Bernini%29.jpg"
        label="Apollo and Daphne" 
        description="sculpture by Gian Lorenzo Bernini"
-       license="CC BY-SA 4.0”>
+       license="CC BY-SA 4.0”
+       fit="contain">
 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
