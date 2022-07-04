@@ -25,8 +25,11 @@ Maize domestication is one of the greatest feats of artificial selection and evo
        url="/Demo_2/spread_of_maize.json">
 
 ### Adding an Image
-Wikimedia commons is a media file repository making available public domain and freely-licensed educational media content (images, sound and video clips) to everyone, in their own language. It acts as a common repository for the various projects of the Wikimedia Foundation, but you do not need to belong to one of those projects to use media hosted here. The repository is created and maintained not by paid archivists, but by volunteers. As of December 2020, Wikimedia Commons contains over 66 million freely usable media files.
-<param ve-iframe src="blob:null/59058575-a24a-4fff-938f-8aa61b01cf7f">
+_Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist Gian Lorenzo Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome, the work depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid's _Metamorphoses_.
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg"
+       fit="cover"
+       region="2612,3942,7168,5848">
 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
