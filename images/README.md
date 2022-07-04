@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Mapping with Juncture"
+       title="Images and Juncture"
        author="Ashley Buchanan"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
@@ -25,10 +25,4 @@ Maize domestication is one of the greatest feats of artificial selection and evo
        url="/Demo_2/spread_of_maize.json">
 
 ### Adding an Image
-_Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist Gian Lorenzo Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome, the work depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid's _Metamorphoses_.
-<param ve-image 
-       manifest="https://tools.wmflabs.org/zoomviewer/proxy.php?iiif=Bernini's_Apollo_and_Daphne_statue.jpg/info.json"
-       label="Apollo and Daphne" 
-       description="sculpture by Gian Lorenzo Bernini"
-       license="Creative Commons"
-       fit="contain">
+
