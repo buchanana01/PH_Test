@@ -100,3 +100,7 @@ The praise for Apollo and Daphne continued despite the decline of Bernini's repu
        label="Apollo and Daphne" 
        description="sculpture by Gian Lorenzo Bernini"
        license="CC BY-SA 4.0">
+
+The praise for Apollo and Daphne continued despite the decline of Bernini's reputation after his death. A French traveler in 1839 commented that the group is "astonishing both for mechanism of art and elaborateness, is full of charm in the ensemble and the details." One 19th-century literary journal considered it the only Bernini work worthy of lasting praise. Others were less positive. An English travel writer in 1829 noted Bernini's technical skill but added that the sculpture "bears all the want of judgment, taste, and knowledge of that age", going on to criticize the appearance of Apollo for being too like a shepherd and not enough like a god.
+<param ve-image
+       url="https://www.biodiversitylibrary.org/pageImage/50764777">
