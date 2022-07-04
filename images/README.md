@@ -41,7 +41,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_
        license="CC BY-SA 4.0"
        region="707,2019,1688,1374">
 
-While the sculpture may be appreciated from multiple angles, Bernini planned for it to be viewed slightly from the right because the work would have been visible from the doorway where it was located. Viewing the sculpture from this angle allowed the observer to see the <span data-mouseover-image-zoomto="6914,6799,1472,2820">reactions of Apollo and Daphne </span> simultaneously, thus understanding the narrative of the story in a single instant, without the need to move position. However, the sculpture was later moved to the middle of the room.
+While the sculpture may be appreciated from multiple angles, Bernini planned for it to be viewed slightly from the right because the work would have been visible from the doorway where it was located. Viewing the sculpture from this angle allowed the observer to see the <span data-mouseover-image-zoomto="824,800,1152,938">reactions of Apollo and Daphne </span> simultaneously, thus understanding the narrative of the story in a single instant, without the need to move position. However, the sculpture was later moved to the middle of the room.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_statue.jpg"
        label="Apollo and Daphne" 
