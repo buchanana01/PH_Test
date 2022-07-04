@@ -26,10 +26,13 @@ Maize domestication is one of the greatest feats of artificial selection and evo
 
 ### Adding an Image
 _Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist Gian Lorenzo Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome, the work depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid's _Metamorphoses_.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg" label="Apollo and Daphne" description="sculpture by Gian Lorenzo Bernini" license="CC BY-SA 4.0” fit="contain">
-
-
-
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg"
+       label="Apollo and Daphne"
+       description="sculpture by Gian Lorenzo Bernini"
+       license="Creative Commons"
+       fit="contain">
+       
 ### Sample visual essay
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
