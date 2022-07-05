@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "heeeeeeey",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/%CE%91%CF%80%CF%8C%CE%BB%CE%BB%CF%89%CE%BD_%CE%BA%CE%B1%CE%B9_%CE%94%CE%AC%CF%86%CE%BD%CE%B7_4.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:519.4222412109375,899.6611328125,1030.4666748046875,695.3555908203125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#33507338-1a76-496c-82f0-a56465e21a96"
+  }
+]
